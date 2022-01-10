@@ -1,1 +1,2 @@
 'daix-ec2-terraform [PUBLIC IP : 100.24.6.162 , ID: i-040e926286d74e721 , AZ: us-east-1b]' 
+'daix-ec2-terraform [PUBLIC IP : 3.95.8.255 , ID: i-0de97a8b1ab048387 , AZ: us-east-1b]' 
