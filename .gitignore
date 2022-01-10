@@ -4,4 +4,4 @@
 *.tfstate
 *.backup
 *.hcl
-**/**/capture/
+**/**/captures/
